@@ -38,7 +38,7 @@ A fully responsive and animated Gym website built using **HTML, CSS, and JavaScr
 ---
 
 ## 🌐 Live Demo  
-🔗 [Live Website](your-live-link-here) *(If deployed)*  
+🔗 [Live Website](https://sun-fit.vercel.app/) *(If deployed)*  
 
 ---
 
